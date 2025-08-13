@@ -1,5 +1,5 @@
 # Laserdisc-Creator
-Scripting that takes any uncompressed video source and applies visuals that make it look like laserdiscs
+A script that takes any uncompressed video source and applies visuals that make it look like laserdiscs
 
 LaserDisc-Style DVD Pipeline (FFmpeg → TMPGEnc → Pioneer DVL-919)
 
